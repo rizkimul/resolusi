@@ -3,3 +3,4 @@ resolusi
 - bikin web dari laraver
 - belajar backend developer
 - belajar frontend developer
+- jadi fullstack web developer
