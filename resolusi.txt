@@ -1,4 +1,5 @@
 resolusi
 - belajar laravel
 - bikin web dari laraver
-- jadi fullstack web developer
+- belajar backend developer
+- belajar frontend developer
