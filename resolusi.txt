@@ -1,0 +1,4 @@
+resolusi
+- belajar laravel
+- bikin web dari laraver
+- jadi fullstack web developer
