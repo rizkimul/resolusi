@@ -3,3 +3,4 @@
   *Corel
 - jadi ui/ux desain
   *adobe xd
+  *figma
