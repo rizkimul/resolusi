@@ -1,6 +1,8 @@
 - belajar desain
   *Ai
   *Corel
+  *photoshop
 - jadi ui/ux desain
   *adobe xd
   *figma
+  
